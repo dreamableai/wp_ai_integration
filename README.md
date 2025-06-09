@@ -1,5 +1,5 @@
 # Search by Algolia – Instant & Relevant results #
-**Contributors:** [algolia](https://profiles.wordpress.org/algolia), [rayrutjes](https://profiles.wordpress.org/rayrutjes)  
+
 **Tags:** Search, Algolia, Autocomplete, instant-search, relevant search, search highlight, faceted search, find-as-you-type search, suggest, search by category, ajax search, better search, custom search  
 **Requires at least:** 4.4  
 **Tested up to:** 5.0  
@@ -107,28 +107,3 @@ The manual installation method involves downloading our search plugin and upload
 ### Updating ###
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
-
-## Screenshots ##
-
-### 1. Algolia Settings. ###
-![Algolia Settings.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-1.png)
-
-### 2. Indexing configuration. ###
-![Indexing configuration.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-2.png)
-
-### 3. Instant-search results configuration. ###
-![Instant-search results configuration.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-3.png)
-
-### 4. Autocomplete dropdown configuration. ###
-![Autocomplete dropdown configuration.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-4.png)
-
-### 5. Autocomplete dropdown example. ###
-![Autocomplete dropdown example.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-5.png)
-
-### 6. Instant-search results page example. ###
-![Instant-search results page example.](https://ps.w.org/search-by-algolia-instant-relevant-results/assets/screenshot-6.png)
-
-
-## Changelog ##
-
-[Checkout the complete changelog here](https://github.com/algolia/algoliasearch-wordpress/blob/master/CHANGELOG.md).
